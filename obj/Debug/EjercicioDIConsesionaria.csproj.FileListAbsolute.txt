@@ -1,0 +1,7 @@
+D:\Programacion II - FPotenciar\UNIDAD III\EjercicioDIConsesionaria\bin\Debug\EjercicioDIConsesionaria.exe.config
+D:\Programacion II - FPotenciar\UNIDAD III\EjercicioDIConsesionaria\bin\Debug\EjercicioDIConsesionaria.exe
+D:\Programacion II - FPotenciar\UNIDAD III\EjercicioDIConsesionaria\bin\Debug\EjercicioDIConsesionaria.pdb
+D:\Programacion II - FPotenciar\UNIDAD III\EjercicioDIConsesionaria\obj\Debug\EjercicioDIConsesionaria.csprojAssemblyReference.cache
+D:\Programacion II - FPotenciar\UNIDAD III\EjercicioDIConsesionaria\obj\Debug\EjercicioDIConsesionaria.csproj.CoreCompileInputs.cache
+D:\Programacion II - FPotenciar\UNIDAD III\EjercicioDIConsesionaria\obj\Debug\EjercicioDIConsesionaria.exe
+D:\Programacion II - FPotenciar\UNIDAD III\EjercicioDIConsesionaria\obj\Debug\EjercicioDIConsesionaria.pdb
