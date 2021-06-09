@@ -23,8 +23,5 @@ namespace EjercicioDIConsesionaria
             return precio;
         }
 
-
-       
-
     }
 }
